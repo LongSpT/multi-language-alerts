@@ -1,7 +1,7 @@
 # Multi Language Alerts
 
-Mensagens de alerta em diferentes idiomas para sistemas.  
-Alert messages in different languages for systems.
+PT: Mensagens de alerta em diferentes idiomas para sistemas.  
+EN: Alert messages in different languages for systems.
 
 ```json
 {
