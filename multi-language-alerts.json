@@ -148,7 +148,7 @@
     "no_results":"Sin resultados.",
     "page_not_found":"Página no encontrada.",
 
-    "invalid_firstname":"Nombre inválido",
+    "invalid_firstname":"Nombre inválido.",
     "invalid_lastname":"Apellido inválido.",
     "invalid_username":"Nombre de usuario invalido.",
     "invalid_date_of_birth":"Fecha de nacimiento no válida.",
@@ -173,7 +173,7 @@
     "invalid_file_format":"Formato de imagen no válido.",
     "invalid_file_size":"Tamaño de archivo en el válido.",
     
-    "username_in_use":"Nombre de usuario no válido",
+    "username_in_use":"Nombre de usuario no válido.",
     "email_in_use":"Este email ya está siendo utilizado por otra persona.",
     "mobile_phone_in_use":"Teléfono móvil en uso.",  
     
